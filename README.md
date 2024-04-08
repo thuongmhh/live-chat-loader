@@ -9,7 +9,7 @@ A minimal, lightweight, and plain JavaScript that mitigates the negative perform
 #### HelpScout Beacon v2
 
 ```html
-<script src="helpscout.min.js" async
+<script src="helpscout.js" async
     data-color="" data-icon=""
     data-z-index="" data-horizontal-position=""
     data-beacon-id="">
